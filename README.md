@@ -4,4 +4,7 @@ I am currently working on a a documentation project that collects and organizes 
   <a href="https://www.xiaohongshu.com/user/profile/6536262200000000040081a2">
     <img alt="Static Badge" src="https://img.shields.io/badge/xiaohongshu-FF2442?logo=xiaohongshu&logoColor=FFFFFF">
   </a>
+  <a href="https://space.bilibili.com/1764814551">
+    <img alt="Static Badge" src="https://img.shields.io/badge/bilibili-00A1D6?logo=Bilibili&logoColor=FFFFFF">
+  </a>
 </p>
